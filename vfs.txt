@@ -1,0 +1,29 @@
+NODE DIR rwx /
+NODE DIR rwx /home
+NODE DIR rwx /home/docs
+NODE FILE rw- /home/docs/readme.txt
+CONTENT_BEGIN
+Welcome to the Virtual File System Shell.
+Use commands like ls, cd, mkdir, touch, cat, write, rm, cp, mv.
+CONTENT_END
+NODE DIR rwx /home/docs/projects
+NODE FILE rw- /home/docs/projects/notes.txt
+CONTENT_BEGIN
+This is my first virtual file.
+It only exists inside the simulated file system. .end
+
+.emd
+This is my first virtual file.
+It only exists inside the simulated file system.
+CONTENT_END
+NODE DIR rwx /projects
+NODE FILE rw- /projects/notes.txt
+CONTENT_BEGIN
+hello world, this is a test. .end
+hello world, this is a test. .end
+CONTENT_END
+NODE DIR rwx /test
+NODE FILE rw- /test/notes.txt
+CONTENT_BEGIN
+hello world! this is my project .end
+CONTENT_END
