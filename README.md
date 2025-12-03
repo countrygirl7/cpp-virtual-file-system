@@ -11,20 +11,10 @@ How to use
 _______________________________
 
 Run the program and use commands like-
-- pwd
-- ls
-- cd <path>
-- mkdir <path>
-- touch <file>
-- write <file>
-- cat <file>
-- rm [-r] <path>
-- tree
-- save
-- exit
+
+<img width="562" height="296" alt="Screenshot 2025-12-02 184406" src="https://github.com/user-attachments/assets/7df208ab-7a99-489a-9d17-9ab2b80e2d81" />
 
 _______________________________
-
 Project files-
 - main.cpp
 - Shell.cpp
@@ -34,6 +24,7 @@ Project files-
 - vfs.txt
 
 ⭐ Video presentation link: https://youtu.be/kz7QO-Zkl4k
+
 
 
 
