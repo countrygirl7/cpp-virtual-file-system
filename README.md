@@ -10,8 +10,18 @@ The project also demonstrates object-oriented programming, tree structures, recu
 How to use
 _______________________________
 
-Run the program and use commands like:
-pwd, ls, cd <path>, mkdir <path, touch <file>, write <file>, cat <file>, rm [-r] <path>, tree, save, exit
+Run the program and use commands like-
+- pwd
+- ls
+- cd <path>
+- mkdir <path>
+- touch <file>
+- write <file>
+- cat <file>
+- rm [-r] <path>
+- tree
+- save
+- exit
 
 _______________________________
 
@@ -24,6 +34,7 @@ Project files-
 - vfs.txt
 
 ⭐ Video presentation link: https://youtu.be/kz7QO-Zkl4k
+
 
 
 
